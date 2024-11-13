@@ -73,7 +73,7 @@ function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    paddingTop: 40,
+    paddingTop: 20,
     backgroundColor: '#F0F0F0',
     borderWidth: 1,
   },
@@ -81,7 +81,7 @@ const styles = StyleSheet.create({
     padding: 10,
     alignItems: 'center',
     borderWidth: 1,
-    marginTop:10,
+    marginTop:20,
     marginHorizontal:10
   },
   headerText: {
