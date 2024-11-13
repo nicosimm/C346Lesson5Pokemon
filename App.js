@@ -82,7 +82,8 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     borderWidth: 1,
     marginTop:20,
-    marginHorizontal:10
+    marginHorizontal:10,
+    borderRadius:10
   },
   headerText: {
     fontSize: 18,
@@ -98,6 +99,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#FFF',
     marginHorizontal: 10,
     borderWidth: 1,
+    borderRadius: 10,
   },
 
   pokemonName: {
